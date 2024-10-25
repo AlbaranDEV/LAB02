@@ -1,0 +1,6 @@
+Andres:Andresito123:0:True
+andres:123456:0:False
+AnDrEs:DiEgO123:0:True
+Andres14:Amen132:0:False
+Berlin:Andres123:0:True
+Andresito:Berlin123:0:False
